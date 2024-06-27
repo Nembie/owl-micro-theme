@@ -6,6 +6,10 @@
 
 <img width="1000" alt="Preview image" src="https://github.com/Nembie/owl-micro-theme/assets/47114030/6de6d146-723d-4038-8f36-d0ffa7f22a19">
 
+
+> :warning: **This repository is currently under development**
+
+
 ### 🤝 Contribution
 If you find any issues or have suggestions for improvements, feel free to open a pull request or issue. Your contribution is highly appreciated.
  
